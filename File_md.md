@@ -10,14 +10,10 @@ continuous line
 
 end quotation with an empty line
 
-* lists (asteroid)
-
-- lists (minus)
-
-+ lists (plus)
+* lists (asteroid, minus, or plus)
 
 1. lists (numbers and points)
-  1. continue an item (two+ spaces)
+  1. continue an item (tab)
 
 ''' 
 For a code block
