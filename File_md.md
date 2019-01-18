@@ -17,7 +17,7 @@ end quotation with an empty line
 + lists (plus)
 
 1. lists (numbers and points)
-+ continue an item
+ + continue an item
 
 ''' 
 For a code block
@@ -34,6 +34,8 @@ Hyperlink [text](link url) or \<link\>
 [link google](http://google.com)
 
 <http://github.com>
+
+Wiki link: \[\[wiki link\]\] or \[\[name|wiki link\]\] 
 
 Bold fonts **two asteroids or underlines**
 
