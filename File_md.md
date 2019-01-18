@@ -17,7 +17,7 @@ end quotation with an empty line
 + lists (plus)
 
 1. lists (numbers and points)
-  + continue an item (two+ spaces)
+  1. continue an item (two+ spaces)
 
 ''' 
 For a code block
