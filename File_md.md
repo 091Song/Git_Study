@@ -29,7 +29,7 @@ horizontal lines (continuous three characters)
 
 ***
 
-Hyperlink [text](link url) or <link>
+Hyperlink [text](link url) or \<link\>
 
 [link google](http://google.com)
 
@@ -42,6 +42,6 @@ Italic fonts _one asteroid or underline_
 Inline code 'code'
 
 image with exclamation mark(!):
-![link name](url)
+\!\[link name\]\(url\)
 
 
